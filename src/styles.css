@@ -59,7 +59,8 @@ nav > p {
 }
 
 .services-section {
-  height: 250px;
+  height: auto;
+  margin: 50px auto;
 }
 
 .services-section > h2 {
